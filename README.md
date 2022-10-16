@@ -1,6 +1,6 @@
-# How to LÖVE
+![image](https://user-images.githubusercontent.com/5807118/196012812-da48c35f-c5f3-4125-bb6f-733e9785e0c4.png)
 
-Walking through the fantastic tutorial: [How to LÖVE](https://sheepolution.com/learn/book/contents) by Sheepolution, on learning to program games with LÖVE.
+A walk-through of the fantastic tutorial: [How to LÖVE](https://sheepolution.com/learn/book/contents) by Sheepolution, on learning to program games with LÖVE.
 
 ## Structure
 
